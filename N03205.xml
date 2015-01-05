@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003884_0000_10020D9771A526F8"/>
-            <pb facs="tcp:003884_0001_10020D992137EBE8" rendition="simple:additions"/>
+            <pb facs="unknown:003884_0000_10020D9771A526F8"/>
+            <pb facs="unknown:003884_0001_10020D992137EBE8"
+                rendition="simple:additions"/>
             <p>
                <hi>CATO</hi>'s MORAL DISTICHS <hi>Engliſhed in Couplets.</hi>
             </p>
@@ -122,20 +123,20 @@
                <hi>PHILADELPHIA:</hi> Printed and Sold by B. FRANKLIN, 1735.</p>
          </div>
          <div type="to_the_reader">
-            <pb n="iii" facs="tcp:003884_0002_10020D9B4472F250"/>
+            <pb n="iii" facs="unknown:003884_0002_10020D9B4472F250"/>
             <head>The PRINTER to the READER.</head>
             <p>THE Manuſcript Copy of this Tranſlation of <hi>Cato's Moral Diſtichs,</hi> happened into my Hands ſome Time ſince, and being my ſelf extreamly pleaſed with it, I thought it might be no leſs acceptable to the Publick; and there<g ref="char:EOLhyphen"/>fore determined to print it as ſoon as I ſhould have conve<g ref="char:EOLhyphen"/>nient Leiſure and Opportunity. It was done by a Gentle<g ref="char:EOLhyphen"/>man amongſt us (whoſe Name or Character I am ſtrictly forbid to mention, tho' it might give ſome Advantage to my Edition) for the Uſe of his own Children; But in my Opinion, it is no unfit or unprofitable Entertainment for thoſe of riper Years. For certainly, ſuch excellent Pre<g ref="char:EOLhyphen"/>cepts of Morality, contain'd in ſuch ſhort and eaſily-remem<g ref="char:EOLhyphen"/>ber'd Sentences, may to Youth particularly be very ſervice<g ref="char:EOLhyphen"/>able in the Conduct of Life, ſince there can ſcarce happen any Affair of Importance to us, in which we may need Ad<g ref="char:EOLhyphen"/>vice, but one or more of theſe Diſtichs ſuited to the Occa<g ref="char:EOLhyphen"/>ſion,
-<pb n="iv" facs="tcp:003884_0003_10020D9DE6B01550"/>will ſeaſonably occur to the Memory, if the Book has been read and ſtudied with a proper Care and Attention.</p>
+<pb n="iv" facs="unknown:003884_0003_10020D9DE6B01550"/>will ſeaſonably occur to the Memory, if the Book has been read and ſtudied with a proper Care and Attention.</p>
             <p>When I obtained Leave to make this Publication, I pro<g ref="char:EOLhyphen"/>cured alſo the following Account of the Author and his Work: for I thought ſomething of the kind neceſſary to be prefix'd to it.</p>
             <p>In moſt Places that I am acquainted with, ſo great is the preſent Corruption of Manners, that a Printer ſhall find much more Profit in ſuch Things as flatter and encou<g ref="char:EOLhyphen"/>rage Vice, than in ſuch as tend to promote its contrary. It would be thought a Piece of Hypocriſy and phariſaical Oſtentation in me, if I ſhould ſay, that I print theſe <hi>Diſ<g ref="char:EOLhyphen"/>tichs</hi> more with a View to the Good of others than my own private Advantage: And indeed I cannot ſay it; for I con<g ref="char:EOLhyphen"/>feſs, I have ſo great Confidence in the common Virtue and Good Senſe of the People of this and the neighbouring Pro<g ref="char:EOLhyphen"/>vinces, that I expect to ſell a very good Impreſſion.</p>
          </div>
          <div type="introduction">
-            <pb n="v" facs="tcp:003884_0004_10020D9F820FE4A0"/>
+            <pb n="v" facs="unknown:003884_0004_10020D9F820FE4A0"/>
             <head>Some ACCOUNT of the fol<g ref="char:EOLhyphen"/>lowing Piece, and Conjectures concerning its AUTHOR.</head>
             <p>THO' the Original of theſe Moral Diſtichs, by being put into the Hands of Boys of the lower Forms at the Latin School, have been frequently conſidered as an Entertainment ſuitable only to ſuch childiſh Years; yet great and able Judges have conceived a much more honourable Eſteem of them. They have been commented on by divers Authors, but particularly by <hi>Eraſmus:</hi> They were tranſlated into Greek by <hi>Maximus Planudes,</hi> a native of <hi>Greece,</hi> and one of the moſt learned of his Age. But the great <hi>Joſeph Scaliger,</hi> diſſatisfyed with that Performance, gave another moſt elegant Verſion of them into the ſame Language, which has been divers times printed. And tho' a Critic in that Tongue, on viewing the Verſion, would not eaſily be induced to believe it could be better'd, yet it has been twice ſince attempted by two other ſeveral Hands, mentioned by <hi>Fabricius.</hi> So that at leaſt four Greek Tranſlations of them have appeared. Into the European Languages, as French, Italian, Dutch, there have been many Tranſlations, and into each of them by ſeveral Hands. They have alſo been divers Times render'd into our own; but the Author of this never ſaw any of them, that by <hi>Charles Hoole,</hi> made in plain and low Lan<g ref="char:EOLhyphen"/>guage for the Uſe of School-boys, only excepted; and therefore he knows not but they may have been much better done before: But as he intended them (as th<gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
                </gap> are here finiſhed) ſolely for the Uſe of his own Children, with ſome of their Acquaintance, and never for publick View, he is no way ſolicitous what others may have perform'd, provided theſe as they are, will anſwer the End they were intended for. Thoſe who find Fault with them may try to do better on any Score of them together, and then they will be more capable of judging, whether it is a very eaſy Task throughout the
-<pb n="vi" facs="tcp:003884_0005_10020DA14743AA38"/>whole, to comprize the Senſe of two Latin Hexameters in twenty Syllables in Engliſh, with a ſmooth Cadence, and tagg'd with a ſtrong Rhime.</p>
+<pb n="vi" facs="unknown:003884_0005_10020DA14743AA38"/>whole, to comprize the Senſe of two Latin Hexameters in twenty Syllables in Engliſh, with a ſmooth Cadence, and tagg'd with a ſtrong Rhime.</p>
             <p>Of the Author of theſe <hi>Diſtichs</hi> there have been various Sentiments; they are call'd <hi>Cato's,</hi> but they could neither be the Work of the Cenſor, the elder of that Name, nor of the much greater Man the younger, call'd <hi>Uticenſis</hi> from the Place of his Death: For in theſe Verſes, <hi>Virgil, Macer, Ovid,</hi> and <hi>Lucan,</hi> are mention'd, none of whom wrote till after the Death of both theſe <hi>Cato's.</hi> The firſt of the Antients whoſe Works remain, that appears to have known them, is one <hi>Vindicianus</hi> a Phyſician, who in a Letter to the Emperor <hi>Valentinian</hi> the elder, about the Year 370, quotes one of theſe Lines: And in a Gloſſary printed at the end of the <hi>Autores L. Latinae,</hi> ſaid to be <hi>Iſidore</hi>'s, who died about the Year 630, the uncommon Word <hi>Officipedi</hi> is found, and <hi>Cato</hi> is expreſsly quoted for it as an Author; which Word [in another Declenſion] is met with in the 4th Book, Numb. 42 of theſe Diſtichs</p>
             <p>Some have thought him a later Chriſtian Writer; but for the Reaſons given he could not be late, nor could he be a Chriſtian; for no Chriſtian would have been Author of that Diſtich, <hi>Lib.</hi> 4. <hi>Numb.</hi> 14.</p>
             <q>
@@ -151,7 +152,7 @@
       </front>
       <body>
          <div n="1" type="book">
-            <pb n="7" facs="tcp:003884_0006_10020DA3F9BD43E8"/>
+            <pb n="7" facs="unknown:003884_0006_10020DA3F9BD43E8"/>
             <head>
                <hi>CATO</hi>'s MORAL DISTICHS.</head>
             <lg n="1">
@@ -180,7 +181,7 @@
                <l>While all ſpy Faults, free from them none thou'lt ſpy.</l>
             </lg>
             <lg n="6">
-               <pb n="8" facs="tcp:003884_0007_10020AF615D8E928"/>
+               <pb n="8" facs="unknown:003884_0007_10020AF615D8E928"/>
                <head>6.</head>
                <l>The Charms of hurtful Joys, tho' ſweet, refuſe:</l>
                <l>'Tis ſometimes Gain ev'n Wealth itſelf to loſe.</l>
@@ -231,7 +232,7 @@
                <l>But thy good Deeds to others never name.</l>
             </lg>
             <lg n="16">
-               <pb n="9" facs="tcp:003884_0008_10020DA6A3D91020"/>
+               <pb n="9" facs="unknown:003884_0008_10020DA6A3D91020"/>
                <head>16.</head>
                <l>While in Old-age you others Conduct tell,</l>
                <l>Think whether in your Youth your own was well.</l>
@@ -282,7 +283,7 @@
                <l>Leſt thou be bounteous deem'd in <hi>Words</hi> alone.</l>
             </lg>
             <lg n="26">
-               <pb n="10" facs="tcp:003884_0009_10020DA94FA979C8"/>
+               <pb n="10" facs="unknown:003884_0009_10020DA94FA979C8"/>
                <head>26.</head>
                <l>Him, who is kind in <hi>Words,</hi> but falſe in <hi>Heart,</hi>
                </l>
@@ -338,7 +339,7 @@
                <l>'Tis Profit that in Love unites us all.</l>
             </lg>
             <lg n="36">
-               <pb n="11" facs="tcp:003884_0010_10020AF84D459928"/>
+               <pb n="11" facs="unknown:003884_0010_10020AF84D459928"/>
                <head>36.</head>
                <l>With Intimates no trifling Quarrels move;</l>
                <l>Wrath <hi>Hate</hi> begets, Concord increaſes Love.</l>
@@ -381,7 +382,7 @@
                <l>Read here, and learn the Prudence you deſire.</l>
             </lg>
             <lg n="1">
-               <pb n="12" facs="tcp:003884_0011_10020DAB1CE5A8C8"/>
+               <pb n="12" facs="unknown:003884_0011_10020DAB1CE5A8C8"/>
                <head>1.</head>
                <l>Even to Strangers thy good Deeds extend;</l>
                <l>'Tis better than a Crown to gain a Friend.</l>
@@ -433,7 +434,7 @@
                <l>Thus oft the Victor's by the Vanquiſh'd foil'd.</l>
             </lg>
             <lg n="11">
-               <pb n="13" facs="tcp:003884_0012_10020DAD43A4F3F0"/>
+               <pb n="13" facs="unknown:003884_0012_10020DAD43A4F3F0"/>
                <head>11.</head>
                <l>Shun with thy Friends contentious Words to uſe;</l>
                <l>For Diſcord oft from trifling Words enſues.</l>
@@ -484,7 +485,7 @@
                <l>They talk not always true, who talk a deal.</l>
             </lg>
             <lg n="21">
-               <pb n="14" facs="tcp:003884_0013_10020DAF61B22CC8"/>
+               <pb n="14" facs="unknown:003884_0013_10020DAF61B22CC8"/>
                <head>21.</head>
                <l>Forgive not what thou doſt provok'd by Wine;</l>
                <l>'Tis not the Liquor's fault; to drink was <hi>Thime.</hi>
@@ -537,7 +538,7 @@
                <l>Nor for thy Follies blame th' unwholeſome Air.</l>
             </lg>
             <lg n="31">
-               <pb n="15" facs="tcp:003884_0014_10020DB0F8E05D20"/>
+               <pb n="15" facs="unknown:003884_0014_10020DB0F8E05D20"/>
                <head>31.</head>
                <l>Regard not Dreams, the Mind will ſtill purſue</l>
                <l>In <hi>Sleep,</hi> what <hi>waking</hi> it had moſt in View.</l>
@@ -583,7 +584,7 @@
                <l>Sloth in the <hi>Mind</hi> does on the Body prey.</l>
             </lg>
             <lg n="7">
-               <pb n="16" facs="tcp:003884_0015_10020DB297EEF018"/>
+               <pb n="16" facs="unknown:003884_0015_10020DB297EEF018"/>
                <head>7.</head>
                <l>By turns with Pleaſure ſoften anxious Care,</l>
                <l>That thy chear'd Mind Life's Load may eaſier bear.</l>
@@ -634,7 +635,7 @@
                <l>Leſt thou by Silence ſeem t'approve the Ill.</l>
             </lg>
             <lg n="17">
-               <pb n="17" facs="tcp:003884_0016_10020DB5415C7708"/>
+               <pb n="17" facs="unknown:003884_0016_10020DB5415C7708"/>
                <head>17.</head>
                <l>When Laws oppreſs, Aid from the Judge deſire;</l>
                <l>For laws ſome Mitigation oft require.</l>
@@ -681,7 +682,7 @@
             </lg>
          </div>
          <div n="4" type="book">
-            <pb n="18" facs="tcp:003884_0017_10020DB75FCA7168"/>
+            <pb n="18" facs="unknown:003884_0017_10020DB75FCA7168"/>
             <head>BOOK IV.</head>
             <lg>
                <l>YOU who a Life ſecure from Ills would lead,</l>
@@ -725,7 +726,7 @@
                <l>Vain Projects Time and Money both deſtroy.</l>
             </lg>
             <lg n="8">
-               <pb n="19" facs="tcp:003884_0018_10020DB8F73AF638"/>
+               <pb n="19" facs="unknown:003884_0018_10020DB8F73AF638"/>
                <head>8.</head>
                <l>Sell not thy Favours through unkind Delays,</l>
                <l>But Friends, the nobleſt Purchaſe, with them raiſe.</l>
@@ -777,7 +778,7 @@
                <l>Th' alluring Charms of Vice with Care refrain.</l>
             </lg>
             <lg n="18">
-               <pb n="20" facs="tcp:003884_0019_10020DBB1B881498"/>
+               <pb n="20" facs="unknown:003884_0019_10020DBB1B881498"/>
                <head>18.</head>
                <l>In Youth mock not old Age; Youth ſwiſtly ſpends,</l>
                <l>And double Childhood human Life attends.</l>
@@ -828,7 +829,7 @@
                <l>And Prudence from a long Experience gain'd.</l>
             </lg>
             <lg n="28">
-               <pb n="21" facs="tcp:003884_0020_10020DBD3B018B88"/>
+               <pb n="21" facs="unknown:003884_0020_10020DBD3B018B88"/>
                <head>28.</head>
                <l>Sparingly praiſe thy Friend, leſt to thy Shame</l>
                <l>Some one raſh Act his want of Worth proclaim.</l>
@@ -881,7 +882,7 @@
                <l>Death, like thy Shade, does every where attend.</l>
             </lg>
             <lg n="38">
-               <pb n="22" facs="tcp:003884_0021_10020DBF60A0B110"/>
+               <pb n="22" facs="unknown:003884_0021_10020DBF60A0B110"/>
                <head>38.</head>
                <l>Think not Heav'n's Wrath with Blood of Calves t'ap<g ref="char:EOLhyphen"/>peaſe;</l>
                <l>The Plow's their Task, Incence will better pleaſe.</l>
@@ -934,7 +935,7 @@
                <l>Of Viſits from pretending Friends beware.</l>
             </lg>
             <lg n="48">
-               <pb n="23" facs="tcp:003884_0022_10020DC0F7E67878"/>
+               <pb n="23" facs="unknown:003884_0022_10020DC0F7E67878"/>
                <head>48.</head>
                <l>Tho' much thou knows, yet gain by Study more;</l>
                <l>The Mind's ne'er burthen'd with th' enlightning Store.</l>
@@ -952,7 +953,7 @@
       </body>
       <back>
          <div type="errata">
-            <pb facs="tcp:003884_0023_10020DC318286320"/>
+            <pb facs="unknown:003884_0023_10020DC318286320"/>
             <head>Errata.</head>
             <p>PAge v. line 5. for <hi>have,</hi> read <hi>hath.</hi> Page vi. line 12. for <hi>Officipedi,</hi> read <hi>Officiperdi.</hi> Page 10. line 28. for <hi>Complaiſance,</hi> read <hi>Complacence.</hi> Page 11. line 15. for <hi>they,</hi> read <hi>thy.</hi>
             </p>
